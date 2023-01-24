@@ -1,0 +1,35 @@
+name: RoseCompass
+author: EmSockz
+main: me.emsockz.rosecompass.Main
+api-version: 1.13
+version: 1.0
+commands:
+  rosecompass:
+    usage: /<command>
+permissions:
+  rosecompass.*:
+    description: All permissions
+    default: op
+    children:
+      rosecompass.commands.*: true
+      rosecompass.commands.help: true
+      rosecompass.commands.help.admin: true
+      rosecompass.commands.reload: true
+  rosecompass.commands.*:
+    description: All commands permissions
+    children:
+      rosecompass.commands.help: true
+      rosecompass.commands.help.admin: true
+      rosecompass.commands.reload: true
+  rosecompass.commands.help:
+    description: Show commands help
+  rosecompass.commands.help.admin:
+    description: Show admin commands help
+    children:
+      roseinv.commands.help: true
+  rosecompass.commands.reload:
+    description: Reload plugin
+  rosecompass.commands.toggle:
+    description: Toggle compass
+  rosecompass.commands.toggle.other:
+    description: Toggle compass other player

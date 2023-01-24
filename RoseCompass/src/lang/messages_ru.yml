@@ -1,0 +1,25 @@
+NoPerm: "&cНет прав"  
+ReloadPlugin: "&aПлагин успешно перезагружен"
+CommandNotFound: "&cКоманда не найдена"
+NotForConsole: "&cЭту команду может выполнять только игрок"
+CompassEnabled: "&cКомпасс был включен игроку {player}"
+CompassDisabled: "&cКомпасс был выключен игроку {player}"
+PlayerNotFound: "&cИгрок не найден"
+HelpCommand:
+  - ' '
+  - '&c&lRoseCompass &8&l|&r &7Помощь по командам'
+  - ' '
+  - '&c&l» Команды&8:'
+  - '&c› &c/rosecompass help &7- &fПосмотреть помощь по командам.'
+  - ' '
+HelpCommandAdmin:
+  - ' '
+  - '&c&lRoseCompass &8&l|&r &7Помощь по командам'
+  - ' '
+  - '&c&l» Commands&8:'
+  - '&c› &c/rosecompass help &7- &fПосмотреть помощь по командам.'
+  - '&c› &c/rosecompass reload &7- &fПерезагрузить плагин'
+  - ' '
+  - '&c› &c/rosecompass toggle &7- &fВкл/Выкл компасс себе.'
+  - '&c› &c/rosecompass toggle <player> &7- &fВкл/Выкл компасс другому игроку.'
+  - ' '

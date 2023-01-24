@@ -1,0 +1,27 @@
+NoPerm: "&cNo perm"  
+ReloadPlugin: "&aPlugin successfully reloaded"
+CommandNotFound: "&cCommand not found"
+NotForConsole: "&cThis command can only be executed by the player"
+CompassEnabled: "&cCompass has been enabled"
+CompassDisabled: "&cCompass has been disabled"
+CompassEnabledOther: "&cCompass has been enabled for player {player}"
+CompassDisabledOther: "&cCompass has been disabled for player {player}"
+PlayerNotFound: "&cPlayer not found"
+HelpCommand:
+  - ' '
+  - '&c&lRoseCompass &8&l|&r &7Help Commands'
+  - ' '
+  - '&c&l» Commands&8:'
+  - '&c› &c/rosecompass help &7- &fShow help commands.'
+  - ' '
+HelpCommandAdmin:
+  - ' '
+  - '&c&lRoseCompass &8&l|&r &7Help Commands'
+  - ' '
+  - '&c&l» Commands&8:'
+  - '&c› &c/rosecompass help &7- &fShow help commands.'
+  - '&c› &c/rosecompass reload &7- &fReload plugin.'
+  - ' '
+  - '&c› &c/rosecompass toggle &7- &fOn/Off Compass yourself.'
+  - '&c› &c/rosecompass toggle <player> &7- &fOn/Off Compass to another player.'
+  - ' '

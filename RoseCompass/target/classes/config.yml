@@ -1,0 +1,8 @@
+lang: "en"
+update: 1
+text:
+  font: "default"
+  color: "<white>"
+bossbar:
+  color: BLUE
+  overlay: NOTCHED_10
