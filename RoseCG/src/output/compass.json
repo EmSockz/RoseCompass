@@ -1,0 +1,3253 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/0.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "廓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/1.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "輻"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/2.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "糖"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/3.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "刺"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/4.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "炙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/5.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "立"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/6.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "麟"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/7.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "璘"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/8.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "匿"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/9.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "裏"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/10.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "泥"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/11.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "履"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/12.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "率"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/13.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "輪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/14.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "陸"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/15.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "紐"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/16.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "溜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/17.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "劉"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/18.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "遼"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/19.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "樂"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/20.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "僚"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/21.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "醴"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/22.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "靈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/23.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "羚"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/24.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "聯"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/25.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "煉"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/26.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "憐"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/27.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "曆"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/28.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "驪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/29.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "女"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/30.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "諒"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/31.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "凉"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/32.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "掠"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/33.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "辰"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/34.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "省"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/35.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "數"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/36.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "便"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/37.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "率"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/38.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "諾"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/39.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "陵"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/40.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "凌"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/41.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "陋"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/42.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "淚"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/43.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "雷"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/44.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "聾"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/45.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "論"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/46.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "綠"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/47.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "魯"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/48.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "蘆"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/49.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "櫓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/50.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "來"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/51.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟢"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/52.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "拉"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/53.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "嵐"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/54.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "맹"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/55.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "酪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/56.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "洛"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/57.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "螺"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/58.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "懶"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/59.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "契"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/60.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "串"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/61.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "更"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/62.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "있"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/63.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잋"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/64.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잏"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/65.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/66.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잗"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/67.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잛"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/68.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잟"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/69.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잣"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/70.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잧"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/71.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잫"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/72.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잯"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/73.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잳"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/74.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잷"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/75.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잻"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/76.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잿"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/77.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟃"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/78.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟇"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/79.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟋"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/80.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟏"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/81.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/82.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟗"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/83.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟛"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/84.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟟"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/85.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟣"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/86.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟧"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/87.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟫"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/88.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟯"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/89.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟳"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/90.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "見"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/91.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "暴"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/92.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "拓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/93.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "茶"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/94.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "狀"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/95.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "臨"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/96.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "鱗"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/97.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "燐"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/98.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "離"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/99.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "罹"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/100.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "梨"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/101.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "吏"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/102.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "栗"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/103.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "淪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/104.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "戮"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/105.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "硫"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/106.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "流"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/107.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "阮"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/108.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "蓼"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/109.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "料"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/110.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "了"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/111.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "禮"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/112.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "零"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/113.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "連"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/114.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "練"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/115.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "漣"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/116.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "年"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/117.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "力"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/118.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "閭"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/119.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "呂"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/120.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "良"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/121.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "兩"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/122.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "若"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/123.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟾"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/124.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "塞"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/125.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "泌"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/126.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "磻"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/127.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "怒"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/128.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "樂"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/129.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "菱"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/130.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "凜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/131.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "縷"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/132.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "樓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/133.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "賂"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/134.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "籠"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/135.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "鹿"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/136.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "祿"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/137.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "露"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/138.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "老"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/139.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "擄"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/140.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "郎"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/141.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟣"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/142.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "襤"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/143.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "鸞"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/144.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "卵"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/145.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "落"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/146.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "樂"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/147.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "蘿"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/148.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "奈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/149.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "龜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/150.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "滑"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/151.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "豈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/152.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잇"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/153.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잌"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/154.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "자"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/155.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잔"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/156.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잘"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/157.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/158.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잠"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/159.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잤"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/160.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잨"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/161.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "재"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/162.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잰"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/163.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잴"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/164.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잸"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/165.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잼"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/166.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟀"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/167.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟄"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/168.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/169.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟌"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/170.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟐"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/171.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟔"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/172.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟘"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/173.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/174.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟠"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/175.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟤"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/176.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟨"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/177.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟬"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/178.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟰"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/179.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟴"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/180.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "降"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/181.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "洞"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/182.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "度"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/183.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "什"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/184.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "粒"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/185.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "淋"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/186.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "隣"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/187.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "吝"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/188.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "里"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/189.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "痢"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/190.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "李"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/191.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "利"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/192.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "慄"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/193.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "崙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/194.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "六"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/195.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "留"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/196.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "柳"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/197.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "暈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/198.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "療"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/199.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "尿"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/200.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "惡"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/201.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "例"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/202.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "鈴"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/203.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "蓮"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/204.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "秊"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/205.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "撚"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/206.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "轢"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/207.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "黎"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/208.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "礪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/209.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "勵"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/210.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "糧"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/211.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "亮"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/212.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "拾"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/213.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "說"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/214.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "參"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/215.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "不"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/216.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "北"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/217.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "寧"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/218.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "拏"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/219.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "綾"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/220.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "肋"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/221.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "累"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/222.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "屢"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/223.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "磊"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/224.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "弄"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/225.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "錄"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/226.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "碌"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/227.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "路"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/228.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "盧"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/229.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "勞"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/230.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "狼"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/231.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "蠟"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/232.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "藍"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/233.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "蘭"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/234.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "亂"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/235.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "珞"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/236.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "邏"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/237.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "羅"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/238.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "喇"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/239.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "龜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/240.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "賈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/241.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잓"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/242.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "있"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/243.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잍"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/244.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "작"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/245.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잕"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/246.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/247.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잝"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/248.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잡"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/249.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "장"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/250.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잩"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/251.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잭"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/252.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잱"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/253.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잵"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/254.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잹"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/255.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잽"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/256.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟁"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/257.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟆"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/258.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟉"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/259.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟍"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/260.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟑"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/261.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟕"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/262.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/263.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟝"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/264.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟡"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/265.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟥"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/266.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟩"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/267.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟭"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/268.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟱"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/269.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟵"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/270.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "行"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/271.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "宅"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/272.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "切"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/273.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "識"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/274.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "笠"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/275.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "林"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/276.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "藺"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/277.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "溺"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/278.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "裡"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/279.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "理"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/280.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "易"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/281.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟿"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/282.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "律"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/283.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "倫"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/284.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "저"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/285.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "琉"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/286.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "杻"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/287.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "龍"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/288.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "燎"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/289.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "寮"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/290.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "隸"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/291.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "領"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/292.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "聆"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/293.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "輦"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/294.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "璉"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/295.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "戀"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/296.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "歷"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/297.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "麗"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/298.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "濾"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/299.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "量"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/300.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "梁"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/301.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "略"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/302.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "沈"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/303.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "葉"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/304.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "索"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/305.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "復"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/306.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "異"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/307.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "丹"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/308.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "讀"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/309.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "稜"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/310.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "勒"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/311.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "漏"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/312.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "壘"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/313.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "牢"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/314.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "壟"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/315.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "菉"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/316.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "鷺"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/317.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟼"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/318.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "爐"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/319.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "冷"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/320.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "浪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/321.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "臘"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/322.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "濫"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/323.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "爛"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/324.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "駱"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/325.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "烙"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/326.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "裸"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/327.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "癩"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/328.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "金"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/329.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "句"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/330.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "車"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/331.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "匶"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/332.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잉"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/333.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잎"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/334.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잒"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/335.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잖"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/336.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잚"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/337.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잞"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/338.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잢"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/339.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잦"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/340.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/341.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잮"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/342.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잲"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/343.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잶"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/344.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잺"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/345.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "잾"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/346.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟂"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/347.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟅"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/348.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟊"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/349.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟎"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/350.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟒"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/351.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟖"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/352.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟚"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/353.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟞"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/354.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "랏"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/355.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟦"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/356.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟪"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/357.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟮"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/358.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟲"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/359.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "쟶"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/hud/compass/360.png",
+            "ascent": 10,
+            "height": 14,
+            "chars": [
+                "廓"
+            ]
+        }
+    ]
+}
